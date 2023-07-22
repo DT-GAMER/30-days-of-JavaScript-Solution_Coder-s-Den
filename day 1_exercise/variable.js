@@ -1,7 +1,7 @@
 //String Variable
-let Name = "Dominic"
+const Name = "Dominic"
 //Boolean Variable
-let isMale = true
+const isMale = true
 //undefined variable
 let age;
 //null variable
