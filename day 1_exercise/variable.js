@@ -1,4 +1,8 @@
+//String Variable
 let Name = "Dominic"
+//Boolean Variable
 let isMale = true
-let value = undefined
+//undefined variable
+let age;
+//null variable
 let properties = null 
